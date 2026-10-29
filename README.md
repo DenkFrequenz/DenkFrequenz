@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/349604008?s=256&amp;v=4" alt="DenkFrequenz – Gehirn und Frequenzwellen in Cyan und Magenta" width="144" height="144">
-</p>
-
 # DenkFrequenz
 
 **Android-Apps und KI-Anwendungen · Freelancer · Zusammenarbeit auf Deutsch**
