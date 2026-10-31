@@ -10,13 +10,17 @@ Für Kunden übernehme ich sowohl vollständige Entwicklungen als auch einzelne 
 
 Ich schreibe selbst Code und arbeite je nach Aufgabe mit KI zusammen – bei der Umsetzung, beim Prüfen und beim Weiterentwickeln von Modulen. Für Android stehen mir ein eigenes Smartphone und Tablet zum Ausprobieren und Testen zur Verfügung.
 
+## Wofür DenkFrequenz steht
+
+Ich möchte KI für Dinge einsetzen, die Menschen im Alltag helfen und ihnen neue Möglichkeiten eröffnen. Mit meinen eigenen Projekten will ich kostenlose, offene Alternativen schaffen, damit die Nutzung guter Software möglichst wenig vom Geldbeutel abhängt. Bei meinen Spielen soll der Spaß im Mittelpunkt stehen – ohne Kaufdruck und ohne bezahlte Vorteile. Wer meine Arbeit unterstützen möchte, soll das freiwillig tun können; Unterstützung soll keine Voraussetzung für die Nutzung sein.
+
 ## Eigene Projekte
 
 Mein Ziel für Veröffentlichungen unter DenkFrequenz: Software öffnen und benutzen können, ohne unnötige Hürden.
 
 - Möglichst offline nutzbar; Internet dort, wo die Funktion es benötigt.
 - Ohne Werbung, Tracking, Nutzungsanalyse, Datenverkauf und Kontozwang.
-- Spiele ohne Pay-to-Win.
+- Spiele ohne Kaufdruck und Pay-to-Win.
 - Kostenlos und mit offenem Quellcode, auch für kommerzielle Nutzung entsprechend der jeweiligen Projektlizenz.
 
 Bei Kundenprojekten richte ich mich nach den gemeinsam vereinbarten Anforderungen.
