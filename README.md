@@ -12,15 +12,21 @@ Ich schreibe selbst Code und arbeite je nach Aufgabe mit KI zusammen – bei der
 
 ## Wofür DenkFrequenz steht
 
-Ich möchte KI für Dinge einsetzen, die Menschen im Alltag helfen und ihnen neue Möglichkeiten eröffnen. Mit meinen eigenen Projekten will ich kostenlose Alternativen schaffen, damit die Nutzung guter Software möglichst wenig vom Geldbeutel abhängt. Bei meinen Spielen soll der Spaß im Mittelpunkt stehen – ohne Kaufdruck und ohne bezahlte Vorteile. Wer meine Arbeit unterstützen möchte, soll das freiwillig tun können; Unterstützung soll keine Voraussetzung für die Nutzung sein.
+Kostenlose Nutzung ist für meine eigenen Apps und Spiele ein Grundsatz: ohne Werbung, Kaufzwang oder bezahlte Spielvorteile. Wer meine Arbeit unterstützen möchte, kann das freiwillig tun. Die Nutzung soll niemals von einer Unterstützung abhängen.
+
+Ich möchte Software entwickeln, die Menschen nützt und ihre Zeit, Aufmerksamkeit und Privatsphäre respektiert. Dazu gehören für mich: kein Tracking, keine Nutzungsprofile, kein Datenverkauf und kein Kontozwang. Was ohne Internet funktioniert, soll auch offline nutzbar sein. Eine Verbindung soll nur dort nötig sein, wo die eigentliche Funktion sie braucht.
+
+Gerade bei Spielen lehne ich Mechaniken ab, die gezielt Frust oder Ungeduld erzeugen, um Menschen zu Werbung oder Käufen zu drängen: künstlich verlangsamter Fortschritt, absichtlich eingebaute Wartehürden oder Beschleunigungen gegen Geld oder Werbekonsum. Meine Spiele sollen Freude machen und einen unkomplizierten Zeitvertreib bieten. Für kleine Casual Games zählen für mich eine gute Spielidee, verständliche Bedienung und Spielspaß.
+
+KI hilft mir, diese eigenen Ideen umzusetzen und nützliche, sorgfältig entwickelte Anwendungen zu schaffen. Ich möchte damit zeigen, dass Software auch mit dem Nutzen für die Menschen im Mittelpunkt entstehen kann.
 
 ## Eigene Projekte
 
 Mein Ziel für Veröffentlichungen unter DenkFrequenz: Software öffnen und benutzen können, ohne unnötige Hürden.
 
 - Möglichst offline nutzbar; Internet dort, wo die Funktion es benötigt.
-- Ohne Werbung, Tracking, Nutzungsanalyse, Datenverkauf und Kontozwang.
-- Spiele ohne Kaufdruck und Pay-to-Win.
+- Ohne Werbung, Tracking, Nutzungsprofile, Nutzungsanalyse, Datenverkauf und Kontozwang.
+- Spiele ohne Kaufdruck, Pay-to-Win oder künstliche Frust- und Wartehürden zur Monetarisierung.
 - Meine Apps sollen kostenlos nutzbar sein. Eine Weitergabe, Weiterentwicklung oder Vermarktung durch Dritte ist nicht vorgesehen.
 
 Bei Kundenprojekten richte ich mich nach den gemeinsam vereinbarten Anforderungen.
