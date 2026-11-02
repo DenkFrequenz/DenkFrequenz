@@ -12,7 +12,7 @@ Ich schreibe selbst Code und arbeite je nach Aufgabe mit KI zusammen – bei der
 
 ## Wofür DenkFrequenz steht
 
-Ich möchte KI für Dinge einsetzen, die Menschen im Alltag helfen und ihnen neue Möglichkeiten eröffnen. Mit meinen eigenen Projekten will ich kostenlose, offene Alternativen schaffen, damit die Nutzung guter Software möglichst wenig vom Geldbeutel abhängt. Bei meinen Spielen soll der Spaß im Mittelpunkt stehen – ohne Kaufdruck und ohne bezahlte Vorteile. Wer meine Arbeit unterstützen möchte, soll das freiwillig tun können; Unterstützung soll keine Voraussetzung für die Nutzung sein.
+Ich möchte KI für Dinge einsetzen, die Menschen im Alltag helfen und ihnen neue Möglichkeiten eröffnen. Mit meinen eigenen Projekten will ich kostenlose Alternativen schaffen, damit die Nutzung guter Software möglichst wenig vom Geldbeutel abhängt. Bei meinen Spielen soll der Spaß im Mittelpunkt stehen – ohne Kaufdruck und ohne bezahlte Vorteile. Wer meine Arbeit unterstützen möchte, soll das freiwillig tun können; Unterstützung soll keine Voraussetzung für die Nutzung sein.
 
 ## Eigene Projekte
 
@@ -21,7 +21,7 @@ Mein Ziel für Veröffentlichungen unter DenkFrequenz: Software öffnen und benu
 - Möglichst offline nutzbar; Internet dort, wo die Funktion es benötigt.
 - Ohne Werbung, Tracking, Nutzungsanalyse, Datenverkauf und Kontozwang.
 - Spiele ohne Kaufdruck und Pay-to-Win.
-- Kostenlos nutzbar und mit einsehbarem Quellcode. Meine eigenen Projekte sollen nicht als Grundlage kostenpflichtiger Apps Dritter dienen.
+- Meine Apps sollen kostenlos nutzbar sein. Eine Weitergabe, Weiterentwicklung oder Vermarktung durch Dritte ist nicht vorgesehen.
 
 Bei Kundenprojekten richte ich mich nach den gemeinsam vereinbarten Anforderungen.
 
@@ -36,7 +36,7 @@ Aktuell arbeite ich unter anderem an:
 | **Strategiespiel auf realen Karten** | Ein frühes Spieleprojekt mit realen Karten als Spielfläche. |
 | **Weitere Werkzeuge und Spiele** | Kleine KI-Anwendungen, ein PDF-Reader und weitere Spiele. |
 
-Diese Übersicht beschreibt laufende Arbeiten. Geprüfte Veröffentlichungen mit Quellcode, Screenshots und Hinweisen zum Entwicklungsstand werden hier nach und nach verlinkt.
+Diese Übersicht beschreibt laufende Arbeiten. Geprüfte Originaldownloads mit Screenshots und Hinweisen zum Entwicklungsstand werden hier nach und nach verlinkt.
 
 ## Kontakt
 
