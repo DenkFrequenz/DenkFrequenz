@@ -21,7 +21,7 @@ Mein Ziel für Veröffentlichungen unter DenkFrequenz: Software öffnen und benu
 - Möglichst offline nutzbar; Internet dort, wo die Funktion es benötigt.
 - Ohne Werbung, Tracking, Nutzungsanalyse, Datenverkauf und Kontozwang.
 - Spiele ohne Kaufdruck und Pay-to-Win.
-- Kostenlos und mit offenem Quellcode, auch für kommerzielle Nutzung entsprechend der jeweiligen Projektlizenz.
+- Kostenlos nutzbar und mit einsehbarem Quellcode. Meine eigenen Projekte sollen nicht als Grundlage kostenpflichtiger Apps Dritter dienen.
 
 Bei Kundenprojekten richte ich mich nach den gemeinsam vereinbarten Anforderungen.
 
